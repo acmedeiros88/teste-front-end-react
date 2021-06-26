@@ -1,4 +1,4 @@
-# Teste utilizando React no Front-end  
+# Teste utilizando React no Front-End  
 
 <p>Fazer uma tabela onde listará os produtos a partir da rota de ordenação por quantidade (decrescente) da API (Back-End).</p>
 

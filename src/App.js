@@ -8,7 +8,7 @@ class App extends Component {
   };
 
   async componentDidMount() {
-    const response = await api.get("/produtos/ativo?sort=quantidade");
+    const response = await api.get("/produtos/ativo?sort=quantidade:desc");
     this.setState({produtos: response.data});
   };
 
